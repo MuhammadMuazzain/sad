@@ -1,0 +1,26 @@
+body{
+  margin:0;
+  font-family: helvetica,arial,sans-serif;
+
+}
+h1{
+  margin-top: 0;
+}
+.topcontainer{
+  background-color: silver;
+  text-align: center;
+}
+
+.middlecontainer{
+}
+.bottomcontainer{
+}
+.proo{
+  text-decoration: underline;
+}
+.upper{
+  position: absolute;
+}
+.lower{
+  position: absolute;
+}
